@@ -1,0 +1,12 @@
+change login/signup
+*implement logout
+*change navbar
+*fetch from cart and display in profile
+change merchindise frontend
+*add news section
+add blogs section
+change footer
+change ai button and section
+edit home page
+*add api page
+add planets description
